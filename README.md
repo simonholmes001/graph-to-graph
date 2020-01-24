@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project aims at re-writting the code found in https://github.com/wengong-jin/iclr19-graph2graph, which corresponds to Jin et al. ICLR 2019 (https://arxiv.org/abs/1812.01070)
+This project aims at rewriting the code found in https://github.com/wengong-jin/iclr19-graph2graph, which corresponds to Jin et al. ICLR 2019 (https://arxiv.org/abs/1812.01070)
 
 The goal is to obtain a repository for educational purposes with:
 1. the same functionality, 
@@ -37,12 +37,12 @@ Currently, there is no entrypoint. However, the code can be explored through the
 
 ### Progress
 
--[x] Graph encoder
--[ ] Graph to Junction tree encoder
--[ ] Junction tree encoder
--[ ] Variational autoencoder
--[ ] Junction tree decoder
--[ ] Graph decoder
--[ ] Training
--[ ] Hyperparameter optimization
--[ ] Evaluation
+-[x] Graph encoder \
+-[ ] Graph to Junction tree encoder \
+-[ ] Junction tree encoder \
+-[ ] Variational autoencoder \
+-[ ] Junction tree decoder \
+-[ ] Graph decoder \
+-[ ] Training \
+-[ ] Hyperparameter optimization \
+-[ ] Evaluation 
